@@ -1,0 +1,29 @@
+version: '2'
+
+services:
+  web:
+    container_name: 'aspnetcoreapp'
+    image: 'aspnetcoreapp'
+    build:
+      context: .
+      dockerfile: aspnetcore.production.dockerfile
+    volumes:
+      - .:/var/www/aspnetcoreapp
+    ports:
+     - "8080:80"
+    depends_on:
+     - "postgres"
+    networks:
+      - aspnetcoreapp-network
+
+  postgres:
+    container_name: 'postgres'
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: Mypass3ord!@
+    networks:
+      - aspnetcoreapp-network
+
+networks:
+  aspnetcoreapp-network:
+    driver: bridge

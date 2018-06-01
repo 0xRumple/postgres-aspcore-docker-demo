@@ -1,0 +1,12 @@
+C:\Users\DarkOne\Desktop\PostgreSQL.Demo\PostgreSQL.Demo\bin\Debug\netcoreapp2.0\PostgreSQL.Demo.deps.json
+C:\Users\DarkOne\Desktop\PostgreSQL.Demo\PostgreSQL.Demo\bin\Debug\netcoreapp2.0\PostgreSQL.Demo.runtimeconfig.json
+C:\Users\DarkOne\Desktop\PostgreSQL.Demo\PostgreSQL.Demo\bin\Debug\netcoreapp2.0\PostgreSQL.Demo.runtimeconfig.dev.json
+C:\Users\DarkOne\Desktop\PostgreSQL.Demo\PostgreSQL.Demo\bin\Debug\netcoreapp2.0\PostgreSQL.Demo.dll
+C:\Users\DarkOne\Desktop\PostgreSQL.Demo\PostgreSQL.Demo\obj\Debug\netcoreapp2.0\PostgreSQL.Demo.csprojResolveAssemblyReference.cache
+C:\Users\DarkOne\Desktop\PostgreSQL.Demo\PostgreSQL.Demo\obj\Debug\netcoreapp2.0\PostgreSQL.Demo.csproj.CoreCompileInputs.cache
+C:\Users\DarkOne\Desktop\PostgreSQL.Demo\PostgreSQL.Demo\obj\Debug\netcoreapp2.0\PostgreSQL.Demo.AssemblyInfoInputs.cache
+C:\Users\DarkOne\Desktop\PostgreSQL.Demo\PostgreSQL.Demo\obj\Debug\netcoreapp2.0\PostgreSQL.Demo.AssemblyInfo.cs
+C:\Users\DarkOne\Desktop\PostgreSQL.Demo\PostgreSQL.Demo\bin\Debug\netcoreapp2.0\PostgreSQL.Demo.pdb
+C:\Users\DarkOne\Desktop\PostgreSQL.Demo\PostgreSQL.Demo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\DarkOne\Desktop\PostgreSQL.Demo\PostgreSQL.Demo\obj\Debug\netcoreapp2.0\PostgreSQL.Demo.dll
+C:\Users\DarkOne\Desktop\PostgreSQL.Demo\PostgreSQL.Demo\obj\Debug\netcoreapp2.0\PostgreSQL.Demo.pdb
